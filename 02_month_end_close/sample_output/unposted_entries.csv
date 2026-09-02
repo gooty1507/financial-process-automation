@@ -1,0 +1,7 @@
+transaction_id,posting_date,account_id,cost_center_id,profit_center_id,document_type,reference_id,amount,debit_credit,status
+GL-10004,2026-07-21,620000,CC-3002,PC-300,AP Invoice,AP-2003,35479.86,Debit,Suspense
+GL-10018,2026-07-13,640000,CC-2001,PC-200,AP Invoice,AP-2017,8931.48,Debit,Suspense
+GL-10028,2026-07-20,600000,CC-2002,PC-200,AP Invoice,AP-2027,35242.44,Debit,Unposted
+GL-10066,2026-07-05,400000,CC-2001,PC-200,AR Invoice,AR-3005,111164.17,Credit,Suspense
+GL-10074,2026-07-09,410000,CC-2001,PC-200,AR Invoice,AR-3013,63439.34,Credit,Suspense
+GL-10111,2026-07-01,999999,CC-3002,PC-300,Journal Entry,JE-9005,5619.43,Debit,Unposted
