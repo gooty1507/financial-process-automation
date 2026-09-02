@@ -1,0 +1,6 @@
+check,status,issues_found
+No unposted / suspense GL entries,FAIL,6
+All GL postings map to a valid GL account,FAIL,2
+All GL postings have cost center & profit center,PASS,0
+Trial balance (debits = credits),FAIL,1
+No duplicate invoice postings,PASS,0
