@@ -1,0 +1,31 @@
+cost_center_id,period,account_category,actual_amount
+CC-1001,2026-07,Salaries & Wages,27731.95
+CC-1001,2026-07,Travel & Entertainment,59869.94
+CC-1001,2026-07,Software & IT,61993.73
+CC-1001,2026-07,Professional Services,50830.57
+CC-1001,2026-07,Facilities,34733.13
+CC-1002,2026-07,Salaries & Wages,71694.9
+CC-1002,2026-07,Travel & Entertainment,81215.24
+CC-1002,2026-07,Software & IT,57071.85
+CC-1002,2026-07,Professional Services,64010.21
+CC-1002,2026-07,Facilities,139956.31
+CC-2001,2026-07,Salaries & Wages,22015.77
+CC-2001,2026-07,Travel & Entertainment,14226.04
+CC-2001,2026-07,Software & IT,33436.37
+CC-2001,2026-07,Professional Services,66350.61
+CC-2001,2026-07,Facilities,55788.11
+CC-2002,2026-07,Salaries & Wages,107613.78
+CC-2002,2026-07,Travel & Entertainment,69908.6
+CC-2002,2026-07,Software & IT,62452.97
+CC-2002,2026-07,Professional Services,85641.63
+CC-2002,2026-07,Facilities,42617.78
+CC-3001,2026-07,Salaries & Wages,50360.38
+CC-3001,2026-07,Travel & Entertainment,45285.98
+CC-3001,2026-07,Software & IT,59054.35
+CC-3001,2026-07,Professional Services,27946.84
+CC-3001,2026-07,Facilities,23759.69
+CC-3002,2026-07,Salaries & Wages,61932.79
+CC-3002,2026-07,Travel & Entertainment,43936.16
+CC-3002,2026-07,Software & IT,43386.4
+CC-3002,2026-07,Professional Services,70736.25
+CC-3002,2026-07,Facilities,91811.18
