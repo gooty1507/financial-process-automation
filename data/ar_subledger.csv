@@ -1,0 +1,46 @@
+invoice_id,customer_id,customer_name,invoice_date,amount,gl_reference,status
+AR-3000,C-001,Harborview Capital,2026-07-16,78681.9,AR-3000,Open
+AR-3001,C-003,Union Peak Advisors,2026-07-03,51065.27,AR-3001,Open
+AR-3002,C-004,Delta Bridge Holdings,2026-07-02,60290.92,AR-3002,Open
+AR-3003,C-001,Harborview Capital,2026-07-09,19053.85,AR-3003,Open
+AR-3004,C-003,Union Peak Advisors,2026-07-03,71342.06,AR-3004,Open
+AR-3005,C-004,Delta Bridge Holdings,2026-07-05,111164.17,AR-3005,Open
+AR-3006,C-004,Delta Bridge Holdings,2026-07-16,42930.64,AR-3006,Open
+AR-3007,C-003,Union Peak Advisors,2026-07-16,4690.86,AR-3007,Open
+AR-3008,C-001,Harborview Capital,2026-07-26,58911.81,AR-3008,Open
+AR-3009,C-002,Silverline Partners,2026-07-22,11762.14,AR-3009,Open
+AR-3010,C-002,Silverline Partners,2026-07-14,59903.43,AR-3010,Open
+AR-3011,C-002,Silverline Partners,2026-07-26,69463.91,AR-3011,Open
+AR-3012,C-003,Union Peak Advisors,2026-07-13,33503.13,AR-3012,Open
+AR-3013,C-004,Delta Bridge Holdings,2026-07-09,63439.34,AR-3013,Open
+AR-3014,C-004,Delta Bridge Holdings,2026-07-12,4550.23,AR-3014,Open
+AR-3015,C-002,Silverline Partners,2026-07-23,107746.97,AR-3015,Open
+AR-3016,C-003,Union Peak Advisors,2026-07-04,67376.26,AR-3016,Open
+AR-3017,C-002,Silverline Partners,2026-07-03,81324.33,AR-3017,Open
+AR-3018,C-001,Harborview Capital,2026-07-08,79811.87,AR-3018,Open
+AR-3019,C-003,Union Peak Advisors,2026-07-20,92700.4,AR-3019,Open
+AR-3020,C-002,Silverline Partners,2026-07-03,110089.4,AR-3020,Open
+AR-3021,C-004,Delta Bridge Holdings,2026-07-07,6414.68,AR-3021,Open
+AR-3022,C-001,Harborview Capital,2026-07-15,45768.83,AR-3022,Open
+AR-3023,C-002,Silverline Partners,2026-07-23,97373.67,AR-3023,Open
+AR-3024,C-004,Delta Bridge Holdings,2026-07-09,114442.13,AR-3024,Open
+AR-3025,C-003,Union Peak Advisors,2026-07-08,62776.74,AR-3025,Open
+AR-3026,C-004,Delta Bridge Holdings,2026-07-07,112453.14,AR-3026,Open
+AR-3027,C-001,Harborview Capital,2026-07-05,7299.45,AR-3027,Open
+AR-3028,C-002,Silverline Partners,2026-07-12,119100.32,AR-3028,Open
+AR-3029,C-001,Harborview Capital,2026-07-25,90335.75,AR-3029,Open
+AR-3030,C-004,Delta Bridge Holdings,2026-07-25,107426.7,AR-3030,Open
+AR-3031,C-001,Harborview Capital,2026-07-15,39279.63,AR-3031,Open
+AR-3032,C-001,Harborview Capital,2026-07-21,80076.03,AR-3032,Open
+AR-3033,C-002,Silverline Partners,2026-07-11,13147.07,AR-3033,Open
+AR-3034,C-003,Union Peak Advisors,2026-07-21,32970.34,AR-3034,Open
+AR-3035,C-001,Harborview Capital,2026-07-26,30434.53,AR-3035,Open
+AR-3036,C-001,Harborview Capital,2026-07-04,100071.3,AR-3036,Open
+AR-3037,C-004,Delta Bridge Holdings,2026-07-05,23153.66,AR-3037,Open
+AR-3038,C-002,Silverline Partners,2026-07-17,105198.32,AR-3038,Open
+AR-3039,C-001,Harborview Capital,2026-07-06,38618.19,AR-3039,Open
+AR-3040,C-004,Delta Bridge Holdings,2026-07-21,116675.52,AR-3040,Open
+AR-3041,C-002,Silverline Partners,2026-07-14,18979.91,AR-3041,Open
+AR-3042,C-004,Delta Bridge Holdings,2026-07-01,29099.41,AR-3042,Open
+AR-3043,C-002,Silverline Partners,2026-07-04,81963.72,AR-3043,Open
+AR-3044,C-004,Delta Bridge Holdings,2026-07-04,61746.93,AR-3044,Open
