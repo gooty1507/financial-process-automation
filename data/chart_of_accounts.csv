@@ -1,0 +1,15 @@
+account_id,account_name,account_type,normal_balance
+100000,Cash,Asset,Debit
+120000,Accounts Receivable,Asset,Debit
+150000,Fixed Assets,Asset,Debit
+200000,Accounts Payable,Liability,Credit
+210000,Accrued Liabilities,Liability,Credit
+300000,Retained Earnings,Equity,Credit
+400000,Product Revenue,Revenue,Credit
+410000,Service Revenue,Revenue,Credit
+500000,COGS,Expense,Debit
+600000,Salaries & Wages,Expense,Debit
+610000,Travel & Entertainment,Expense,Debit
+620000,Software & IT,Expense,Debit
+630000,Professional Services,Expense,Debit
+640000,Facilities,Expense,Debit
