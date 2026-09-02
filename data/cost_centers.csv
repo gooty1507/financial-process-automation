@@ -1,0 +1,7 @@
+cost_center_id,cost_center_name,department,profit_center_id
+CC-1001,Rates - Trading Ops,Trading,PC-100
+CC-1002,Rates - Risk & Analytics,Risk,PC-100
+CC-2001,FX - Trading Ops,Trading,PC-200
+CC-2002,FX - Sales Support,Sales,PC-200
+CC-3001,Finance & Accounting,Finance,PC-300
+CC-3002,IT & Infrastructure,IT,PC-300
