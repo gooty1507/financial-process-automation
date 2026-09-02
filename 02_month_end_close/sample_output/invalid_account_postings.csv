@@ -1,0 +1,3 @@
+transaction_id,posting_date,account_id,cost_center_id,profit_center_id,document_type,reference_id,amount,debit_credit,status
+GL-10111,2026-07-01,999999,CC-3002,PC-300,Journal Entry,JE-9005,5619.43,Debit,Unposted
+GL-10115,2026-07-11,999999,CC-3002,PC-300,Journal Entry,JE-9009,6304.47,Credit,Posted
