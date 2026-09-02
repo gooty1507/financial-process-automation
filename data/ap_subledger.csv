@@ -1,0 +1,61 @@
+invoice_id,vendor_id,vendor_name,invoice_date,amount,gl_reference,status
+AP-2000,V-001,Meridian Office Supplies,2026-07-21,20030.09,AP-2000,Open
+AP-2001,V-003,BlueWave Software Inc.,2026-07-24,31532.88,AP-2001,Open
+AP-2002,V-002,Northstar Consulting,2026-07-03,43915.19,AP-2002,Open
+AP-2003,V-004,Apex Facilities Group,2026-07-21,35479.86,AP-2003,Open
+AP-2004,V-003,BlueWave Software Inc.,2026-07-04,20542.17,AP-2004,Open
+AP-2005,V-003,BlueWave Software Inc.,2026-07-11,41741.04,AP-2005,Open
+AP-2006,V-004,Apex Facilities Group,2026-07-18,37112.89,AP-2006,Open
+AP-2007,V-003,BlueWave Software Inc.,2026-07-12,10612.12,AP-2007,Open
+AP-2008,V-001,Meridian Office Supplies,2026-07-15,3339.87,AP-2008,Open
+AP-2009,V-005,Crestline Data Services,2026-07-23,28609.07,AP-2009,Open
+AP-2010,V-001,Meridian Office Supplies,2026-07-21,16276.41,AP-2010,Open
+AP-2011,V-001,Meridian Office Supplies,2026-07-27,40243.89,AP-2011,Open
+AP-2012,V-004,Apex Facilities Group,2026-07-22,9161.42,AP-2012,Open
+AP-2013,V-002,Northstar Consulting,2026-07-13,2449.27,AP-2013,Open
+AP-2014,V-003,BlueWave Software Inc.,2026-07-05,30895.68,AP-2014,Open
+AP-2015,V-005,Crestline Data Services,2026-07-21,43554.18,AP-2015,Open
+AP-2016,V-003,BlueWave Software Inc.,2026-07-09,16985.46,AP-2016,Open
+AP-2017,V-001,Meridian Office Supplies,2026-07-13,8931.48,AP-2017,Open
+AP-2018,V-003,BlueWave Software Inc.,2026-07-04,21668.87,AP-2018,Open
+AP-2019,V-002,Northstar Consulting,2026-07-07,30306.72,AP-2019,Open
+AP-2020,V-005,Crestline Data Services,2026-07-12,37554.18,AP-2020,Open
+AP-2021,V-004,Apex Facilities Group,2026-07-19,14400.32,AP-2021,Open
+AP-2022,V-004,Apex Facilities Group,2026-07-23,36312.01,AP-2022,Open
+AP-2023,V-005,Crestline Data Services,2026-07-11,13330.6,AP-2023,Open
+AP-2024,V-002,Northstar Consulting,2026-07-19,6718.99,AP-2024,Open
+AP-2025,V-005,Crestline Data Services,2026-07-06,827.62,AP-2025,Open
+AP-2026,V-004,Apex Facilities Group,2026-07-22,30085.86,AP-2026,Open
+AP-2027,V-003,BlueWave Software Inc.,2026-07-20,35242.44,AP-2027,Open
+AP-2028,V-003,BlueWave Software Inc.,2026-07-13,25808.98,AP-2028,Open
+AP-2029,V-001,Meridian Office Supplies,2026-07-04,5596.59,AP-2029,Open
+AP-2030,V-003,BlueWave Software Inc.,2026-07-19,21463.78,AP-2030,Open
+AP-2031,V-005,Crestline Data Services,2026-07-16,34542.45,AP-2031,Open
+AP-2032,V-003,BlueWave Software Inc.,2026-07-18,25134.28,AP-2032,Open
+AP-2033,V-001,Meridian Office Supplies,2026-07-16,14025.78,AP-2033,Open
+AP-2034,V-004,Apex Facilities Group,2026-07-01,19933.92,AP-2034,Open
+AP-2035,V-005,Crestline Data Services,2026-07-06,18679.52,AP-2035,Open
+AP-2036,V-005,Crestline Data Services,2026-07-24,10910.31,AP-2036,Open
+AP-2037,V-005,Crestline Data Services,2026-07-02,13021.58,AP-2037,Open
+AP-2038,V-005,Crestline Data Services,2026-07-08,29955.28,AP-2038,Open
+AP-2039,V-001,Meridian Office Supplies,2026-07-16,35383.47,AP-2039,Open
+AP-2040,V-005,Crestline Data Services,2026-07-18,18584.22,AP-2040,Open
+AP-2041,V-003,BlueWave Software Inc.,2026-07-22,7930.29,AP-2041,Open
+AP-2042,V-002,Northstar Consulting,2026-07-01,4507.13,AP-2042,Open
+AP-2043,V-004,Apex Facilities Group,2026-07-20,21053.54,AP-2043,Open
+AP-2044,V-004,Apex Facilities Group,2026-07-05,22796.49,AP-2044,Open
+AP-2045,V-005,Crestline Data Services,2026-07-05,31486.26,AP-2045,Open
+AP-2046,V-003,BlueWave Software Inc.,2026-07-13,17455.44,AP-2046,Open
+AP-2047,V-002,Northstar Consulting,2026-07-09,28547.58,AP-2047,Open
+AP-2048,V-004,Apex Facilities Group,2026-07-10,4400.42,AP-2048,Open
+AP-2049,V-002,Northstar Consulting,2026-07-04,43304.45,AP-2049,Open
+AP-2050,V-002,Northstar Consulting,2026-07-25,31636.97,AP-2050,Open
+AP-2051,V-003,BlueWave Software Inc.,2026-07-08,43628.35,AP-2051,Open
+AP-2052,V-002,Northstar Consulting,2026-07-22,32401.61,AP-2052,Open
+AP-2053,V-004,Apex Facilities Group,2026-07-13,12614.75,AP-2053,Open
+AP-2054,V-001,Meridian Office Supplies,2026-07-03,40665.81,AP-2054,Open
+AP-2055,V-001,Meridian Office Supplies,2026-07-13,9505.17,AP-2055,Open
+AP-2056,V-004,Apex Facilities Group,2026-07-09,26275.27,AP-2056,Open
+AP-2057,V-003,BlueWave Software Inc.,2026-07-05,38619.34,AP-2057,Open
+AP-2058,V-001,Meridian Office Supplies,2026-07-21,32516.1,AP-2058,Open
+AP-2059,V-004,Apex Facilities Group,2026-07-12,28415.24,AP-2059,Open
