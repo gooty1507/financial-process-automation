@@ -1,0 +1,8 @@
+invoice_id,subledger_amount,gl_amount,discrepancy_type,variance
+AP-2002,43915.19,,Unposted (no GL entry found),43915.19
+AP-2039,35383.47,,Unposted (no GL entry found),35383.47
+AP-2041,7930.29,,Unposted (no GL entry found),7930.29
+AP-2048,4400.42,,Unposted (no GL entry found),4400.42
+AP-2036,10910.31,10029.49,Amount mismatch,880.82
+AP-2054,40665.81,38303.29,Amount mismatch,2362.52
+AP-2057,38619.34,32363.3,Amount mismatch,6256.04
