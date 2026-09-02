@@ -1,0 +1,31 @@
+cost_center_id,cost_center_name,department,profit_center_name,account_category,budget_amount,actual_amount,variance_amount,variance_pct,direction,flagged
+CC-1002,Rates - Risk & Analytics,Risk,Trading Desk - Rates,Facilities,84842.72,139956.31,55113.59,0.6496,Overrun,True
+CC-3002,IT & Infrastructure,IT,Corporate / Shared Services,Facilities,56474.48,91811.18,35336.7,0.6257,Overrun,True
+CC-2002,FX - Sales Support,Sales,Trading Desk - FX,Software & IT,40022.83,62452.97,22430.14,0.5604,Overrun,True
+CC-2001,FX - Trading Ops,Trading,Trading Desk - FX,Software & IT,21578.18,33436.37,11858.19,0.5495,Overrun,True
+CC-3001,Finance & Accounting,Finance,Corporate / Shared Services,Software & IT,38583.0,59054.35,20471.35,0.5306,Overrun,True
+CC-2002,FX - Sales Support,Sales,Trading Desk - FX,Salaries & Wages,73074.11,107613.78,34539.67,0.4727,Overrun,True
+CC-3001,Finance & Accounting,Finance,Corporate / Shared Services,Salaries & Wages,35290.12,50360.38,15070.26,0.427,Overrun,True
+CC-2002,FX - Sales Support,Sales,Trading Desk - FX,Facilities,72189.91,42617.78,-29572.13,-0.4096,Underspend,True
+CC-2001,FX - Trading Ops,Trading,Trading Desk - FX,Travel & Entertainment,23782.77,14226.04,-9556.73,-0.4018,Underspend,True
+CC-1001,Rates - Trading Ops,Trading,Trading Desk - Rates,Facilities,54197.38,34733.13,-19464.25,-0.3591,Underspend,True
+CC-3002,IT & Infrastructure,IT,Corporate / Shared Services,Salaries & Wages,85209.56,61932.79,-23276.77,-0.2732,Underspend,True
+CC-2001,FX - Trading Ops,Trading,Trading Desk - FX,Facilities,46395.62,55788.11,9392.49,0.2024,Overrun,True
+CC-1002,Rates - Risk & Analytics,Risk,Trading Desk - Rates,Software & IT,51911.49,57071.85,5160.36,0.0994,Overrun,False
+CC-3001,Finance & Accounting,Finance,Corporate / Shared Services,Facilities,26083.75,23759.69,-2324.06,-0.0891,Underspend,False
+CC-1002,Rates - Risk & Analytics,Risk,Trading Desk - Rates,Travel & Entertainment,74943.35,81215.24,6271.89,0.0837,Overrun,False
+CC-2001,FX - Trading Ops,Trading,Trading Desk - FX,Salaries & Wages,23980.02,22015.77,-1964.25,-0.0819,Underspend,False
+CC-3002,IT & Infrastructure,IT,Corporate / Shared Services,Travel & Entertainment,47842.8,43936.16,-3906.64,-0.0817,Underspend,False
+CC-3001,Finance & Accounting,Finance,Corporate / Shared Services,Travel & Entertainment,42314.4,45285.98,2971.58,0.0702,Overrun,False
+CC-1001,Rates - Trading Ops,Trading,Trading Desk - Rates,Software & IT,57932.29,61993.73,4061.44,0.0701,Overrun,False
+CC-2002,FX - Sales Support,Sales,Trading Desk - FX,Travel & Entertainment,65342.36,69908.6,4566.24,0.0699,Overrun,False
+CC-1002,Rates - Risk & Analytics,Risk,Trading Desk - Rates,Professional Services,59969.51,64010.21,4040.7,0.0674,Overrun,False
+CC-1001,Rates - Trading Ops,Trading,Trading Desk - Rates,Travel & Entertainment,57371.3,59869.94,2498.64,0.0436,Overrun,False
+CC-3001,Finance & Accounting,Finance,Corporate / Shared Services,Professional Services,26820.87,27946.84,1125.97,0.042,Overrun,False
+CC-2002,FX - Sales Support,Sales,Trading Desk - FX,Professional Services,82377.49,85641.63,3264.14,0.0396,Overrun,False
+CC-2001,FX - Trading Ops,Trading,Trading Desk - FX,Professional Services,64339.75,66350.61,2010.86,0.0313,Overrun,False
+CC-1001,Rates - Trading Ops,Trading,Trading Desk - Rates,Professional Services,49948.89,50830.57,881.68,0.0177,Overrun,False
+CC-3002,IT & Infrastructure,IT,Corporate / Shared Services,Professional Services,69726.43,70736.25,1009.82,0.0145,Overrun,False
+CC-1002,Rates - Risk & Analytics,Risk,Trading Desk - Rates,Salaries & Wages,72294.25,71694.9,-599.35,-0.0083,Underspend,False
+CC-3002,IT & Infrastructure,IT,Corporate / Shared Services,Software & IT,43748.99,43386.4,-362.59,-0.0083,Underspend,False
+CC-1001,Rates - Trading Ops,Trading,Trading Desk - Rates,Salaries & Wages,27846.85,27731.95,-114.9,-0.0041,Underspend,False
