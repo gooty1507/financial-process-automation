@@ -1,0 +1,4 @@
+invoice_id,subledger_amount,gl_amount,discrepancy_type,variance
+AR-3012,33503.13,,Unposted (no GL entry found),33503.13
+AR-3023,97373.67,,Unposted (no GL entry found),97373.67
+AR-3044,61746.93,,Unposted (no GL entry found),61746.93
